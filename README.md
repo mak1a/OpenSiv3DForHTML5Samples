@@ -10,6 +10,10 @@
 
 <https://nokotan.github.io/Siv3DForHTML5Samples/Pinball/Siv3DTest.html>
 
+### Piano
+
+<https://nokotan.github.io/Siv3DForHTML5Samples/Piano/Siv3DTest.html>
+
 ## Siv3DForHTML5Samples Project
 
 <https://github.com/nokotan/OpenSiv3D>
