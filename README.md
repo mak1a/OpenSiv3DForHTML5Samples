@@ -6,9 +6,13 @@
 
 <https://nokotan.github.io/Siv3DForHTML5Samples/BasicSample/Siv3DTest.html>
 
+![demo.gif](https://github.com/Siv3D/OpenSiv3D/raw/master/doc/images/demo.gif)
+
 ### Pinball
 
 <https://nokotan.github.io/Siv3DForHTML5Samples/Pinball/Siv3DTest.html>
+
+![pinball](https://github.com/Siv3D/OpenSiv3D/raw/master/doc/images/game-pinball.gif)
 
 ## Siv3DForHTML5Samples Project
 
