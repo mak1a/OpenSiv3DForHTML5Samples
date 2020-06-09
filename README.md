@@ -22,6 +22,10 @@ PWA version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/PWATest/Siv3DTe
 
 ![piano](https://github.com/Siv3D/OpenSiv3D/raw/master/doc/images/app-piano.gif)
 
+### WebCamera
+
+PWA version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/WebCamera/Siv3DTest.html>
+
 ## Siv3DForHTML5Samples Project
 
 <https://github.com/nokotan/OpenSiv3D>
