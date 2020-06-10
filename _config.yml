@@ -1,0 +1,3 @@
+webrick:
+  headers:
+    Feature-Policy: "camera 'self'; autoplay 'self';"
