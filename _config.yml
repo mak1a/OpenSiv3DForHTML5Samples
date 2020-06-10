@@ -1,3 +1,5 @@
 webrick:
   headers:
     Feature-Policy: "camera 'self'; autoplay 'self';"
+
+theme: jekyll-theme-slate
