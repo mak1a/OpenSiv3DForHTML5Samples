@@ -6,6 +6,7 @@
 
 <https://nokotan.github.io/OpenSiv3DForHTML5Samples/BasicSample/Siv3DTest.html>
 
+OpenGLES2 version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/GLES2SupportTest/Siv3D_App.html>
 PWA version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/PWATest/Siv3DTest.html>
 
 ![demo.gif](https://github.com/Siv3D/OpenSiv3D/raw/master/doc/images/demo.gif)
